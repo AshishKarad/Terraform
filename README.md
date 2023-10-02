@@ -32,3 +32,5 @@ git clone url
 
 ![image](https://github.com/AshishKarad/Terraform/assets/113464960/26f8e514-215b-4e7d-842c-51c26ea91870)
 
+![myimage](https://github.com/AshishKarad/Terraform/blob/main/Terr2.avif)
+
